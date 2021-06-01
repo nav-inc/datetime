@@ -1,4 +1,4 @@
-# datetime [![Build Status](https://travis-ci.org/nav-inc/datetime.svg?branch=master)](https://travis-ci.org/nav-inc/datetime) 
+# datetime [![Build Status](https://travis-ci.com/nav-inc/datetime.svg?branch=master)](https://travis-ci.com/nav-inc/datetime) 
 
 `datetime` provides a Parse function for turning commonly-used 
 [ISO 8601](http://www.loc.gov/standards/datetime/iso-tc154-wg5_n0038_iso_wd_8601-1_2016-02-16.pdf) date/time formats into
